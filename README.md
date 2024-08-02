@@ -2,8 +2,8 @@
 
 
 - i'm darwin (he/him)
-- studying cs @ yale
-- check out https://darwindo.com
+- currently at gecko robotics
+- check out https://darwins.cloud
 
 
 
